@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailMerge", "EmailMerge\EmailMerge.csproj", "{989FC72E-F444-4F10-B123-B1858A80BF92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{989FC72E-F444-4F10-B123-B1858A80BF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989FC72E-F444-4F10-B123-B1858A80BF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989FC72E-F444-4F10-B123-B1858A80BF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989FC72E-F444-4F10-B123-B1858A80BF92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC7BE9B0-7C98-46DA-8698-DAA9D5039AFC}
+	EndGlobalSection
+EndGlobal
