@@ -138,7 +138,7 @@ namespace EmailMerge
             Map(m => m.Nome).Name("Nome", "Name");
             Map(m => m.Cognome).Name("Cognome", "Surname");
             Map(m => m.Lingua).Name("Lang", "Lingua");
-            Map(m => m.Email).Name("Email", "Indirizzo posta elettronica", "Specifica");
+            Map(m => m.Email).Name("Email", "Indirizzo posta elettronica", "Mail","MAIL");
             Map(m => m.Citta).Name("Citta");
             Map(m => m.Paese).Name("Nazione", "IDNazione", "Country");
         }
